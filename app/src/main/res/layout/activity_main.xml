@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#bbb8f2"
+    android:layout_height="match_parent"
+    tools:context="com.example.apiiit_rkv.apssdc_assignment_6.MainActivity">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_marginTop="200dp"
+    android:text="  Please Change Your
+    Airplane Mode State Of Your Device"
+    android:textSize="32sp"
+    android:textColor="#000000"
+    android:gravity="center"
+    android:layout_height="wrap_content" />
+</RelativeLayout>

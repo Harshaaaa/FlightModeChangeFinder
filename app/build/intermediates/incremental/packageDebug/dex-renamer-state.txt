@@ -1,0 +1,7 @@
+#Tue Dec 19 18:06:12 IST 2017
+base.0=/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0881a95334eaf7afbf4dedb1e92a412e0c3ad7a4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_218cbf4d2efc96e54366a027b172a216b2ffd0e2/classes.dex
+base.1=/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_218cbf4d2efc96e54366a027b172a216b2ffd0e2
+file.0=/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0881a95334eaf7afbf4dedb1e92a412e0c3ad7a4/classes.dex

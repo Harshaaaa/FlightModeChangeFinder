@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/apiiit-rkv/.android/build-cache/a7330fba59ed946dfa52de686fee86d0dd1515c1/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/apiiit-rkv/.android/build-cache/a7330fba59ed946dfa52de686fee86d0dd1515c1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/apiiit-rkv/.android/build-cache/a7330fba59ed946dfa52de686fee86d0dd1515c1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/APSSDC_Assignment_6/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/apiiit-rkv/.android/build-cache/a7330fba59ed946dfa52de686fee86d0dd1515c1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
